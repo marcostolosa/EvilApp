@@ -1,7 +1,7 @@
 # EvilApp v1.0
 ## Author: https://github.com/thelinuxchoice/EvilApp
 ## IG: https://www.instagram.com/linux_choice
-### Don't copy this code without give me the credits, nerd! 
+### Don't copy this code without giving me the credits, nerd! 
 
 Script to generate Android App that can hijack autenticated sessions in cookies
 
