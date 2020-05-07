@@ -15,8 +15,8 @@ Android Studio
 
 ### Tested on Kali Linux 2020.1 x64:
 ```
-# git clone https://github.com/thelinuxchoice/evilapp
-# cd evilapp
+# git clone https://github.com/thelinuxchoice/EvilApp
+# cd EvilApp
 # bash evilapp.sh
 ```
 
