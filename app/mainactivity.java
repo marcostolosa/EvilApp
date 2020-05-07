@@ -79,12 +79,13 @@ checkperm();
    private class MyWebViewClient extends WebViewClient {
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {
-              if(url.indexOf("choose_url") > -1 ) return false; 
-Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
-startActivity(intent);
+return false;
+//              if(url.indexOf("choose_url") > -1 ) return false; 
+//Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+//startActivity(intent);
 
 
-return true; 
+//return true; 
 
     }
 @Override
