@@ -2,7 +2,7 @@
 ## Author: https://github.com/thelinuxchoice/EvilApp
 ## Twitter: https://www.twitter.com/linux_choice
 
-Man-in-the-middle phishing attack using an Android app to grab session cookies, which in turn allows to bypass 2-factor authentication protection.
+Man-in-the-middle phishing attack using an Android app to grab session cookies for any website, which in turn allows to bypass 2-factor authentication protection. EvilApp brings as an example the hijacking and injection of cookies for authenticated instagram sessions.
 
 ![ea](https://user-images.githubusercontent.com/34893261/81334236-2176ce00-907c-11ea-8639-97989aabbd32.png)
 
